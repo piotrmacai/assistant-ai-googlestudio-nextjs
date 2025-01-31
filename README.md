@@ -2,6 +2,8 @@
 
 A modern AI powered web application built with Next.js that helps content creators generate customized blog posts and newsletters using Google Gemini models - prototyped with Google AI Studio.
 
+![Workflow Overview](public/aistudionext.png)
+
 ## Features
 
 - **Dynamic Content Types**: Switch between blog posts and newsletter generation
